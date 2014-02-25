@@ -1,4 +1,5 @@
 asciidoc-dvp-mavenbook
 ======================
 
-Backend for Developpez.com format
+Asciidoc Backend for converting Apache Maven Book (https://github.com/ndeloof/apache-maven-book) content to the Developpez.com format.
+
